@@ -1,2 +1,7 @@
-# Simon-game-project
-Repository about simon-game-project by 2023 Web Development Bootcamp from Udemy.
+Simon Game Project by 2023 Web Development Bootcamp Repository from Udemy.
+
+Content:
+
+Drum Website Project developed by Dr. Angela Yu from Udemy.
+
+Used IDE: Visual Studio Code.
