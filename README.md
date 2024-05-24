@@ -2,6 +2,6 @@
 
 ## Content:
 
-- Drum Website Project developed by Dr. Angela Yu from Udemy.
+- Simon Game Project developed by Dr. Angela Yu from Udemy.
 
 ### Used IDE: Visual Studio Code.
